@@ -1,6 +1,4 @@
 #labels Credits
-#Credits
-
 = Credits =
 
 Kevin T. --> Creator and Coder (lordaragos, MedievalXteam)
