@@ -1,0 +1,5 @@
+= Screenshots =
+
+http://www.pygame.org/shots/1864.jpg
+
+http://code.google.com/p/medievalx/files/screenshot0.png
