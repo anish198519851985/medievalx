@@ -1,3 +1,4 @@
+#labels Featured
 = News =
 
 This is where we will keep you posted on our updates.
@@ -5,14 +6,14 @@ This is where we will keep you posted on our updates.
 
 == Artist needed! ==
 
-As you can see, I'm not the greatest artist and Medieval X II is in dire need of one. These would be the only requirements:
+As you can see, I'm not the greatest artist and Medieval X II is in _dire_ need of one. These would be the only requirements:
 
  * An email that they actually answer to
  * Semi-flexible schedule (at least in August)
  * And of course, a very skilled computer graphics artist
 
-If you can do the above, _please_ email me at lordaragos@gmail.com. The deadline is July 24. Thank you!
+If you can do the above, _please_ email me at lordaragos@gmail.com. The deadline is *July 24*. Thank you!
 
 == Medieval X II Release Date ==
 
-We are expecting Medieval X II to be out by _August 26_. It will have more strategy implemented into the game, better graphics (we need an artist quick!), and go from a pointless campaign to a fun, action-packed game!
+We are expecting Medieval X II to be out by *August 26*. It will have more strategy implemented into the game, better graphics (we need an artist quick!), and go from a pointless campaign to a fun, action-packed game!
